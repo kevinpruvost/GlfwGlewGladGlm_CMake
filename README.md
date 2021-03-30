@@ -1,2 +1,2 @@
-# GlfwGlewGlm_CMake
-Glfw Glew &amp; Glm ready for cross platform projects (with CMake)
+# GlfwGlewGladGlm_CMake
+Glfw, Glew, Glad & Glm ready for cross platform projects (with CMake)
